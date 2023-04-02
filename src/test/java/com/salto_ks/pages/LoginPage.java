@@ -54,13 +54,4 @@ public class LoginPage {
     @AndroidFindBy(xpath = "//*[@text='RETRY']")
     public WebElement retryButton;
 
-
-
-
-
-    //Methods
-    //public void enterEmail(String){
-
-    //}
-
 }
